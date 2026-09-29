@@ -233,13 +233,11 @@ For ASR-style JSONL outputs, use:
 python evaluate_asr.py --input_path outputs/asr/results.jsonl
 ```
 
-## Anonymous-release policy
 
-This README intentionally contains no author names, affiliations, email
-addresses, personal account names, repository URLs, or author-specific
-citation. Replace angle-bracket placeholders only with release resources that
-are themselves appropriate for the intended review or publication stage.
+## :star: Cites:
+If you found this repo is helpful, please consider citing our papers:
+```
+```
 
-Do not commit model caches, generated datasets containing private source paths,
-experiment logs with hostnames, or version-control metadata from a private
-working directory.
+## 🙏 Acknowledgement: 
+We  implemented our code based on [AudioInterference](https://github.com/lca0503/AudioInterference)) code. We thank our respective authors for releasing the code.
