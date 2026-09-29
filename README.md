@@ -9,6 +9,9 @@ condition, and the optional ICAP-style late-pathway gate used for the mitigation
 experiments. It is organized around the three model families and the evaluation
 scripts used to compute the metrics reported in the paper.
 
+![image](https://github.com/sunyulin0421/Selective_Listening/blob/main/figures/Fig1.png)
+![image](https://github.com/sunyulin0421/Selective_Listening/blob/main/figures/Fig2.png)
+
 ## Reproducibility scope
 
 The paper's main evaluation compares the following conditions:
