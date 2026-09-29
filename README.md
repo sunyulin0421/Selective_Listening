@@ -23,6 +23,9 @@ scripts used to compute the metrics reported in the paper.
 
 <h3 align="center">Mechanism-guided selective control of irrelevant-audio influence in LALMs.</h3>
 
+## :loudspeaker: News:
+Sep. 26, 2026: We submitted our paper Selective Listening to ICLR'27 conference(main track)
+
 ## Reproducibility scope
 
 The paper's main evaluation compares the following conditions:
