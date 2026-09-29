@@ -240,4 +240,4 @@ If you found this repo is helpful, please consider citing our papers:
 ```
 
 ## 🙏 Acknowledgement: 
-We  implemented our code based on [AudioInterference](https://github.com/lca0503/AudioInterference)) code. We thank our respective authors for releasing the code.
+We  implemented our code based on [AudioInterference]((https://github.com/lca0503/AudioInterference)) code. We thank author for releasing the code.
