@@ -1,0 +1,13 @@
+SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
+PROJECT_ROOT="${PROJECT_ROOT:-${SCRIPT_DIR}}"
+HF_CACHE_ROOT="${HF_CACHE_ROOT:-${HF_HOME:-${HOME}/.cache/huggingface}}"
+export HF_HOME="${HF_CACHE_ROOT}"
+export HF_DATASETS_CACHE="${HF_CACHE_ROOT}/datasets"
+export HUGGINGFACE_HUB_CACHE="${HF_CACHE_ROOT}/hub"
+export HF_ENDPOINT="https://hf-mirror.com"
+export HF_HUB_DISABLE_XET=1
+unset TRANSFORMERS_CACHE
+unset TRANSFORMERS_OFFLINE
+unset HF_HUB_OFFLINE
+export HF_HUB_DOWNLOAD_TIMEOUT=600
+export HF_HUB_ETAG_TIMEOUT=60
