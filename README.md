@@ -1,4 +1,4 @@
-# Irrelevant-Audio Interference in Audio-Language Models
+# Selective Listening: Mechanism-Guided Control of Audio Influence in Large Audio-Language Models
 
 This repository contains the anonymous reproduction code for studying how
 task-irrelevant audio can change the answer produced by an audio-language model
