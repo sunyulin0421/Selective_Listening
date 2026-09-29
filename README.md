@@ -9,8 +9,19 @@ condition, and the optional ICAP-style late-pathway gate used for the mitigation
 experiments. It is organized around the three model families and the evaluation
 scripts used to compute the metrics reported in the paper.
 
-![image](https://github.com/sunyulin0421/Selective_Listening/blob/main/figures/Fig1.png)
-![image](https://github.com/sunyulin0421/Selective_Listening/blob/main/figures/Fig2.png)
+<p align="center">
+  <img src="figures/Fig1.png" alt="Fig1" width="900" />
+</p>
+
+<h3 align="center">Paired decision drift under task-irrelevant audio.</h3>
+
+<br>
+
+<p align="center">
+  <img src="figures/Fig2.png" alt="Fig2" width="900" />
+</p>
+
+<h3 align="center">Mechanism-guided selective control of irrelevant-audio influence in LALMs.</h3>
 
 ## Reproducibility scope
 
