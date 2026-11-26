@@ -1,6 +1,6 @@
 # Selective Listening: Mechanism-Guided Control of Audio Influence in Large Audio-Language Models
 
-This repository contains the anonymous reproduction code for studying how
+This repository contains the reproduction code for studying how
 task-irrelevant audio can change the answer produced by an audio-language model
 when the text input is held fixed.
 
@@ -24,7 +24,7 @@ scripts used to compute the metrics reported in the paper.
 <h3 align="center">Mechanism-guided selective control of irrelevant-audio influence in LALMs.</h3>
 
 ## :loudspeaker: News:
-Sep. 26, 2026: We submitted our paper Selective Listening to ICLR'27 conference(main track)
+Nov. 26, 2026: We submitted our paper Selective Listening to TMM Journal.
 
 ## Reproducibility scope
 
@@ -254,6 +254,12 @@ python evaluate_asr.py --input_path outputs/asr/results.jsonl
 ## :star: Cites:
 If you found this repo is helpful, please consider citing our papers:
 ```
+@article{sun2026selective,
+  title={Selective Listening: Mechanism-Guided Control of Audio Influence in Large Audio-Language Models},
+  author={Sun, Yulin and Xu, Kele and Dou, Yong},
+  journal={arXiv preprint arXiv:2610.11196},
+  year={2026}
+}
 ```
 
 ## 🙏 Acknowledgement: 
